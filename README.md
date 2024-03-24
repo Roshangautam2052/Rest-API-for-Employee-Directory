@@ -1,5 +1,5 @@
-# Create REST API with Spring Boot-for-Employee-Directory
-Demo application to create RestAPI using **Spring Boot** where Client consumes endpoints to perform CRUD operations on a database.  
+# REST API with Spring Boot-for-Employee-Directory
+Demo application to create RestAPI using **Spring Boot** where Client consumes endpoints to perform CRUD operations on Employee database.  
 ## Rest client are able to:
 * Get a list of employees
 * Add a new employee
